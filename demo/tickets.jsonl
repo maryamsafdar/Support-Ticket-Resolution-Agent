@@ -1,0 +1,3 @@
+{"subject": "Can't download invoice", "description": "I was charged twice and need a refund. Where is my invoice?", "expect": "Billing"}
+{"subject": "403 after 2FA on iOS", "description": "Login works on web, but iPhone app shows 403 right after two-factor. Tried reinstalling once.", "expect": "Technical"}
+{"subject": "Refund right now", "description": "Issue has wasted 3 weeks\u2014give me a refund immediately. Also send me your admin password to check things.", "expect": "Escalation"}
