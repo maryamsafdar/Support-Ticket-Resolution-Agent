@@ -112,9 +112,16 @@ bash demo/run_demo.sh
 
 ---
 
-## 📹 Recording Your Demo Video
+---
 
-Open `demo/demo_script.md` and follow the step‑by‑step flow to record a short screencast (happy path, retry, escalation). Submit the video file or a link alongside your repo.
+## 🎥 Demo Walkthrough
+
+To better understand the workflow of the **LangGraph Support Ticket Resolution Agent**, please watch the recorded demo video below.  
+It showcases all key scenarios: **happy path, retry loop, and escalation handling**.
+
+[![Watch the Demo Video](https://i.vimeocdn.com/video/1114183190_640.webp)](https://vimeo.com/1114183190/54da836be5?ts=184540&share=copy)
+
+> 🔗 Click the thumbnail above to view the full demo on Vimeo.
 
 ---
 
